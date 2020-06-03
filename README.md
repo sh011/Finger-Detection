@@ -1,4 +1,4 @@
-# Finger-Detection
+# Fingers-Counting
 Count the no. of fingers using OpenCV. Used the convex defects properties to count how many fingers are open in the live video.
 
 ## Requirements
