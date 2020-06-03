@@ -4,4 +4,4 @@ Count the no. of fingers using OpenCV. Used the convex defects properties to cou
 ## Requirements
 Python, OpenCV, Numpy
 ## How To Use
-1. Run final.py.
+1. Run final.py after installing the requirements.
